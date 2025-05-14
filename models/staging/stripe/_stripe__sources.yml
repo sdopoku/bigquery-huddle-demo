@@ -1,0 +1,8 @@
+sources:
+  - name: stripe
+    project: training-demo-459308
+    dataset: stripe
+    
+    tables:
+      - name: payments
+        identifier: payment

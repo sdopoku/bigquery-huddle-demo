@@ -1,0 +1,8 @@
+sources:
+  - name: jaffle_shop
+    project: training-demo-459308
+    dataset: jaffle_shop
+    
+    tables:
+      - name: customers
+      - name: orders
