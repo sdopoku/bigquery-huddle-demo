@@ -1,0 +1,6 @@
+sources:
+  - name: jaffle_shop
+    
+    tables:
+      - name: customers
+      - name: orders
